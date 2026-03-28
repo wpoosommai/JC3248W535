@@ -1,3 +1,4 @@
+https://github.com/wpoosommai/JC3248W535.git
 # IoTAGIAppV49
 
 ESP32-S3 HMI / Dashboard application for a 3.5-inch 320×480 touch LCD, designed for greenhouse monitoring and control.
