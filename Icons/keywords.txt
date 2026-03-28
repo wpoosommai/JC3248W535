@@ -1,0 +1,21 @@
+# Syntax Coloring Map For Icons library
+# Use TAB characters between columns
+
+# Image arrays
+icon_fan_off	KEYWORD1
+icon_fan_on	KEYWORD1
+icon_gallery	KEYWORD1
+icon_light_off	KEYWORD1
+icon_light_on	KEYWORD1
+icon_mist_off	KEYWORD1
+icon_mist_on	KEYWORD1
+icon_pump_off	KEYWORD1
+icon_pump_on	KEYWORD1
+
+# Size constants
+ICON_FAN_W	LITERAL1
+ICON_FAN_H	LITERAL1
+ICON_STD_W	LITERAL1
+ICON_STD_H	LITERAL1
+ICON_GALLERY_W	LITERAL1
+ICON_GALLERY_H	LITERAL1
